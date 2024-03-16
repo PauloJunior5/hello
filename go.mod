@@ -2,6 +2,4 @@ module github.com/PauloJunior5/hello
 
 go 1.21.4
 
-replace greetings => ../greetings
-
-require greetings v0.0.0-00010101000000-000000000000
+require github.com/PauloJunior5/greetings v0.0.0-20240316190732-473edaf2335e
